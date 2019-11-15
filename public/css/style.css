@@ -119,7 +119,7 @@ ul {
   grid-column: 1 / 3;
 }
 
-/* <<<<<<< jeff-styles
+/* jeff-styles */
 #search{
   background-color: rgba(226, 160, 226, 0.26);
   opacity: 50%;
@@ -133,7 +133,7 @@ ul {
 
 display:inline-block;
 }
-=======
+
 .contact form button,
 .contact form input,
 .contact form textarea {
@@ -156,7 +156,7 @@ display:inline-block;
   transition: background-color 2s ease-out;
 }
 
-/* LARGE SCREENS */
+/* LARGE SCREENS
 @media (min-width: 700px) {
   .wrapper {
     display: grid;
